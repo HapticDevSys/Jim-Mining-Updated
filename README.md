@@ -10,6 +10,8 @@
   - QB-Menu
   - HapitcLib - https://hapticdev-productions.tebex.io/package/6471980
 
+- Credits:
+  - Jim Obviously - https://github.com/jimathy/jim-mining
 
 # jim-mining
 FiveM Custom QBCORE mining script by me from scratch
