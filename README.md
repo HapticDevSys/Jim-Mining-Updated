@@ -1,3 +1,16 @@
+# Jim-Mining Updated
+- Modifications
+  - QB-Inventory Support Fixed
+  - QB-Target/Interact Support
+  - Sell Methods Changed
+  - Jim-Shops No Longer Used
+
+- Dependancies
+  - QB-Target/OX-Target/Interact
+  - QB-Menu
+  - HapitcLib - https://hapticdev-productions.tebex.io/package/6471980
+
+
 # jim-mining
 FiveM Custom QBCORE mining script by me from scratch
 
